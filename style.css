@@ -1,0 +1,17 @@
+.Gaming{
+    margin: 35px;
+    
+} 
+img{
+    width: 30%;
+}
+
+body{
+    text-align: center;
+    font-size: 40px;
+   background: linear-gradient(#9400D3, #8B008B);
+}
+p{
+    font-weight: 500;
+    color: purple; 
+}
